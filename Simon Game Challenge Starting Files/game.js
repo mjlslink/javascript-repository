@@ -1,0 +1,3 @@
+alert("Game started");
+
+$("button")
