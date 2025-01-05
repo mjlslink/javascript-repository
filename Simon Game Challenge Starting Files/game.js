@@ -1,3 +1,0 @@
-alert("Game started");
-
-$("button")

@@ -26,6 +26,18 @@ body {
   border-radius: 20%;
 }
 
+.flash {
+  animation: flash 1s ease-out;
+  animation-iteration-count: 1;
+
+  -webkit-animation: flash 1s ease-out;
+  -webkit-animation-iteration-count: 1;
+
+  -ms-animation: flash 1s ease-out;
+  -ms-animation-iteration-count: 1;
+}
+
+
 .game-over {
   background-color: red;
   opacity: 0.8;
